@@ -7,6 +7,8 @@
 
 Projeto realizado pelo curso html e css da [Alura](https://www.alura.com.br/)
 
+<br/>
+
 ## Tecnologias
 * HTML
 * CSS
