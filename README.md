@@ -1,5 +1,6 @@
 
-[html-e-css_praticando](https://user-images.githubusercontent.com/106173624/198147941-ffa52259-d987-41b4-84f6-f03bdbe9cc58.png)
+<p align="center"> <img src="https://user-images.githubusercontent.com/106173624/198147941-ffa52259-d987-41b4-84f6-f03bdbe9cc58.png" alt="HTML e CSS: site Alura Plus"> </p>
+
 <br/>
 
 > site: [Alura Plus](https://nathrds.github.io/site-alura-plus/)
